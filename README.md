@@ -15,6 +15,7 @@ Setup steps
 
 
 Dependencies:
+
 LAN Network
 TCP server: Windows 7 or above, .NET core 3.1
 Unity Barrucuda:  Unity 2019.2.5f1 or above
