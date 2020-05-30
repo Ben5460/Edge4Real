@@ -1,7 +1,7 @@
 Edge4Real
 
 Introduction 
-
+Recognition of human behaviours including body motions and facial expressions plays a significant role in human-centric software engineering. However, powerful machines are required to analysis and to compute human behaviour recognition through video analytics. Edge4Real which can be easily deployed in an edge computing environment with commodity machines. Edge4Real can generate the 3D human pose from webcam/camera to VR device. 
 
 Setup steps
 1. Clone this project to your computer
