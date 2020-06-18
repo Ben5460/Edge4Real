@@ -1,6 +1,7 @@
 Edge4Real
 
 Introduction 
+
 Recognition of human behaviours including body motions and facial expressions plays a significant role in human-centric software engineering. However, powerful machines are required to analysis and to compute human behaviour recognition through video analytics. Edge4Real which can be easily deployed in an edge computing environment with commodity machines. Edge4Real can generate the 3D human pose from webcam/camera to VR device. 
 
 Setup steps
@@ -32,3 +33,5 @@ Oculus App for regenerating 3D Pose from Barrucuda https://deakin365-my.sharepoi
 Reference:
 1. Barracuda 3D Pose Estimtation by yukihiko https://github.com/yukihiko/ThreeDPoseUnitySample
 2. TCP Server and Unity Server and Client by dilmerv https://github.com/dilmerv/TCPServerAndClient
+
+Demo video：https://youtu.be/dH0oWnWk924
