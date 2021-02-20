@@ -1,6 +1,7 @@
 Edge4Emotion
 
 Introduction 
+
 Edge4real new Progress
 
 We added two new modules related to emotion recognition to the original human behavior platform. One is the facial expression recognition module, and the other is the audio emotion recognition module
@@ -15,7 +16,6 @@ Dependencies: python3.6, pyaudio,pyAudioAnalysis, scipy, wave, pydub, python_spe
 Edge4Real
 
 Introduction 
-
 
 Recognition of human behaviours including body motions and facial expressions plays a significant role in human-centric software engineering. However, powerful machines are required to analysis and to compute human behaviour recognition through video analytics. Edge4Real which can be easily deployed in an edge computing environment with commodity machines. Edge4Real can generate the 3D human pose from webcam/camera to VR device. 
 
